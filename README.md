@@ -46,6 +46,7 @@ The code works well for detecting lanes in videos. The output video shows the de
 video frames. The results can be further improved by tweaking the parameters of the Hough Transform algorithm and the
 region of interest mask.
 
+![img.png](img.png)
 ## Conclusion
 
 In conclusion, this Jupyter notebook provides a simple and effective solution for detecting lanes in videos using OpenCV
